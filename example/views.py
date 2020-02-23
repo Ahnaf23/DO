@@ -13,4 +13,8 @@ def index(request):
  return HttpResponse("hello kutaaaa")
 
 
+def index(request):
+ return HttpResponse("hello kuttarbaccha")
+
+
  
